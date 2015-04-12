@@ -18,5 +18,8 @@ sudo zprint 查看 kalloc 分配的內存域
 kextlibs MyFirstUSBDriver.kext 查看 kext 依賴
 
 ~~Apple 不允許 Mac App Store 上的軟件獲取 root 權限，所以要求 root 權限的軟件在MAS上是不會出現的~~
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 8df430cd8b311d8e5734b291128548230051520e
